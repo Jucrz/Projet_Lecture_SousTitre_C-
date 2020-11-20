@@ -1,0 +1,11 @@
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\bin\Debug\netcoreapp3.0\Projet_sous-titre.exe
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\bin\Debug\netcoreapp3.0\Projet_sous-titre.deps.json
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\bin\Debug\netcoreapp3.0\Projet_sous-titre.runtimeconfig.json
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\bin\Debug\netcoreapp3.0\Projet_sous-titre.runtimeconfig.dev.json
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\bin\Debug\netcoreapp3.0\Projet_sous-titre.dll
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\bin\Debug\netcoreapp3.0\Projet_sous-titre.pdb
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\obj\Debug\netcoreapp3.0\Projet_sous-titre.csprojAssemblyReference.cache
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\obj\Debug\netcoreapp3.0\Projet_sous-titre.AssemblyInfoInputs.cache
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\obj\Debug\netcoreapp3.0\Projet_sous-titre.AssemblyInfo.cs
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\obj\Debug\netcoreapp3.0\Projet_sous-titre.dll
+C:\Users\jujuc\Desktop\Cours\B2\Architecture_logiciel\Projet\Projet_sous-titre\Projet_sous-titre\obj\Debug\netcoreapp3.0\Projet_sous-titre.pdb
